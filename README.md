@@ -1,6 +1,5 @@
 ### Selina Lin
-- I am a rising sophomore at Purdue University.
-- Pronouns: she/her
+- I am a sophomore at Purdue University.
 - I’m currently learning more about machine learning.
 - Fun fact: My favorite animal is the squirrel.
 
