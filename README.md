@@ -1,7 +1,6 @@
 ### Selina Lin
-- I am a sophomore at Purdue University.
-- I’m currently learning more about machine learning.
-- Fun fact: My favorite animal is the squirrel.
+- I am a junior at Purdue University.
+- My favorite animal is the squirrel.
 
 <!---
 sl2828/sl2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
