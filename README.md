@@ -1,5 +1,5 @@
 ### Selina Lin
-- I am a junior at Purdue University.
+- I graduated from Purdue University.
 - My favorite animal is the squirrel.
 
 <!---
